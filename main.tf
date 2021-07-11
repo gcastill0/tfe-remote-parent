@@ -1,3 +1,4 @@
+# This is a comment
 terraform {
   required_providers {
     azurerm = {
